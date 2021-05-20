@@ -3,7 +3,7 @@ Hi, I'm Juliet Womack. I am a full-time graduate student studying Applied Statis
 - I love problem solving through programming and have experience with SAS and R. 
 - I am currently working on teaching myself Python and SQL and working on gaining experience with Tableau and Power BI. 
 
-This GitHub is designed to showcase my projects as a budding Data Analyst/Data Scientiest. To learn more, please feel free to reach out to me via email or LinkedIn.
+This GitHub is designed to showcase my projects as a budding Data Analyst/Data Scientist. To learn more, please feel free to reach out to me via email or LinkedIn.
 
 |Email|info@julietwomack.com|
 |---|---|
