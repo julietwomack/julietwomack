@@ -5,7 +5,8 @@ Hi, I'm Juliet Womack. I am a full-time graduate student studying Applied Statis
 
 This GitHub is designed to showcase my projects as a budding Data Analyst/Data Scientist. To learn more, please feel free to reach out to me via email or LinkedIn.
 
-| Email          | info@julietwomack.com                                |
+| Profile          | Link                               |
 |----------------|------------------------------------------------------|
+| Email | info@julietwomack.com |
 | LinkedIn       | https://www.linkedin.com/in/juliet-womack/           |
 | Tableau Public | https://public.tableau.com/app/profile/juliet.womack |
